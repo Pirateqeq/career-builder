@@ -1,4 +1,4 @@
-# career-builder
+# Career Builder
 
 A club project to build tools that help students prepare for successful careers.
 
@@ -21,11 +21,12 @@ We want to build tools around what students actually struggle with, not what we 
 
 ### To Do List
 
-- [ ] Finalize the survey
-- [ ] Circulate the survey
+- [ ] Finalize the survey - Minjoo
+- [ ] Circulate the survey - Minjoo
 - [ ] Meet and discuss the project
-- [ ] Determine team roles
+- [ ] Determine team roles / structure
 - [ ] Figure out interviews
+- [ ] Mock interviews - Neft & Jason
 
 *More steps will be added as we plan and discuss.*
 
@@ -35,6 +36,15 @@ We can continue when we're able to look at our data, identify the top problems, 
 
 ---
 
-## Team
+## Team (Not finalized) 
 
-*TBD*
+- Camrin - Flexible
+- Chiara - *Need interest / role*
+- Crystal - Literature review on career builder tools and users’ social context
+- Deivi - Frontend/backend, AI integration, data analysis, survey help. Open to Scrum Master.
+- Jason - Flexible (Temp lead til team consensus)
+- Minjoo - Flexible
+- Neftali - Interview help
+- Professor Bracewell - Advisor
+- Tajh - AI integration, backend, research on what skills careers require
+- Trey - *Need interest / role*
